@@ -1,10 +1,9 @@
-Code Club Project: Assessing whether intra and inter-genomic variation hinders utility of ASVs
+# Code Club Project: Assessing whether intra and inter-genomic variation hinders utility of ASVs
 
-Author: Amber DePoy
+**Author:** Amber DePoy
 
-Developed over a series of Code Club episodes led by Pat Schloss to answer an important question in microbiology and
-develop comfort using tools to develop reproducible research practices. 
+Developed over a series of *Code Club* episodes led by Pat Schloss to answer an important question in microbiology and
+develop comfort using tools to develop reproducible research practices.
 
-Dependencies:
-mothur v.1.44.2
-
+### Dependencies:  
+* [mothur v.1.45.2](https://github.com/mothur/mothur/tree/v1.45.2)
