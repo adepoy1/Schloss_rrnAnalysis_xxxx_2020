@@ -6,4 +6,5 @@ Developed over a series of *Code Club* episodes led by Pat Schloss to answer an 
 develop comfort using tools to develop reproducible research practices.
 
 ### Dependencies:  
-* [mothur v.1.45.2](https://github.com/mothur/mothur/tree/v1.45.2)
+* [mothur v.1.44.2](https://github.com/mothur/mothur/tree/v1.44.2)- `code/install_mothur.sh` installs mothur
+* wget
